@@ -14,3 +14,13 @@ population votes (random turnout) (v like votes) will ask you to input an intege
 population votes (true turnout) (t like turnout) works similiarly to pop votes (random turnout) but instead of all the generated votes summing up to the max population there could be people that didn't vote. Turnout is the total votes divided by the max population, then multiplied by 100 and rounded to 2 decimals.
 
 Approval influenced (i like influenced) works a lot like adjusted percentages mode but it takes into account the approval rating (rounded to an integer you'd like). Essentially approval rating is used as the chance for the governing parties to increase their popularity, this means a high approval rating will mean a higher chance the governing parties will have a bigger percentage, while on the contrary a low approval rating will mean they have a higher chance of losing percentage points.
+
+############
+INSTALLATION
+############
+It should be very simple:
+
+1) Download all the files
+2) Put them in your preferred folder
+3) navigate to the /dist folder and right click the .exe file
+4) Hover over "Send to" and then click "Send to desktop (Create shortcut)" (This will create a desktop shortcut you can use and move to easily access the program)
