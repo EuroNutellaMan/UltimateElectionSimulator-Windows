@@ -20,7 +20,9 @@ REQUIREMENTS
 ############
 
 Windows 10 or newer
+
 NOTE: I only tested it on windows 10and cannot guarantee it works on newer versions.
+
 Side-note for LINUX: You can still use this program on Linux by running "python3 UltimateElSim.py" from the console after navigating to the folder you saved it in. 
 
 ############
