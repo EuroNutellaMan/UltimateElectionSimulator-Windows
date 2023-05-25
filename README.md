@@ -16,8 +16,17 @@ population votes (true turnout) (t like turnout) works similiarly to pop votes (
 Approval influenced (i like influenced) works a lot like adjusted percentages mode but it takes into account the approval rating (rounded to an integer you'd like). Essentially approval rating is used as the chance for the governing parties to increase their popularity, this means a high approval rating will mean a higher chance the governing parties will have a bigger percentage, while on the contrary a low approval rating will mean they have a higher chance of losing percentage points.
 
 ############
+REQUIREMENTS
+############
+
+Windows 10 or newer
+NOTE: I only tested it on windows 10and cannot guarantee it works on newer versions.
+Side-note for LINUX: You can still use this program on Linux by running "python3 UltimateElSim.py" from the console after navigating to the folder you saved it in. 
+
+############
 INSTALLATION
 ############
+
 It should be very simple:
 
 1) Download all the files
